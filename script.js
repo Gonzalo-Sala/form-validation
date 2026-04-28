@@ -39,6 +39,7 @@ function formValidate() {
         }
     });
 
+    //Validacion del input DNI
     const dni = document.getElementById("dni");
     let dniError = document.getElementById("errorDni");
 
